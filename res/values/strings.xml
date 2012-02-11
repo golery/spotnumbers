@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Spot Numbers</string>
+	<string name="about">"Spot-Numbers v2.0 &#xa9; Hai Ly.\nThis software is provided 'as-is,'  without warranty of any kind. \nThe author is not responsible for any harmful (if there is any).</string>
+    <string name="help">        <![CDATA[        
+        <center><b>Spot-Numbers Rules</b></center>
+        <br/><br/>    
+        Spot-Numbers is a game for two players. In this game, they are named Alice and Bob.<br/>
+        <br/>               
+        Each person looks for the numbers and clicks on them as fast as possible. The number must be clicked in correct order (i.e 1,2,3...) <br/>
+        <br/>
+        The winer is the player who clicks on more numbers. <br/>
+        <br/>
+        <b>Hint:</b><br/>
+        - This game is best when playing on large screen device (like Playbook tablet) <br/>
+        - Be careful ! Number "6" and number "9" are very similar.           
+        - If you need more challenge, you can play with the advanced mode.
+        ]]>
+    </string>
+    <string name="introduction">        
+        <![CDATA[        
+        <center><b>Spot-Numbers</b></center>
+        <br/><br/>    
+        Being on a train and you need a game to play with your friend. Or you have two kids but only one tablet. Or you want to help your kids to read the numbers faster<br/>
+        This simple game is suitable for you. <br>
+        <br/>
+        
+        <b>Spot-Numbers is a cooperative-game for two players.</b> <br/>
+        <br/>               
+        The rule is pretty simple. Each person tries to look for the numbers and then click on them as fast as possible.<br/>      
+        In order to get score, player must click on the number in the correct order (i.e 1,2,3...).<br/> 
+        Once a number is "spotted" by one player, it cannot be spotted by the other.<br/>        
+        <br/>
+        The winer is the player who clicks on more numbers. <br/>
+        <br/>
+        The game is pretty simple, but it is the competition of players that make it attrative. <br/>
+        <br/>
+        <br/>
+        <b>Hint:</b><br/>
+        - Look ahead and remember the location of number in advance is a good strategy.<br/>
+        - Be careful ! Number 6 and number 9 are very similar. It\'s the risk piece of this game.<br/>
+        - This game is supposed for two player. Playing it alone is sure boring.<br/>
+        - This game is best when playing on large screen device (like Playbook tablet) <br/>        
+        - If you need more challenge, you can play with the advanced mode.
+        ]]>
+    </string>
+</resources>
